@@ -12,8 +12,8 @@ public class Principal {
  * menosVolume OK
  * ligarMudo OK
  * desligarMudo OK
- * play
- * pause
+ * play Ok 
+ * pause Ok
  * */		
 		
 		ControleRemoto c1 = new ControleRemoto();
